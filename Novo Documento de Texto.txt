@@ -1,0 +1,42 @@
+https://drive.google.com/drive/folders/1VxGJPlZSaw_JPSijHKTp8QfO8hMC_bkD
+
+
+https://drive.google.com/drive/folders/1qLvEMPZpVE4Mph5NbVnpeeLpk3dz5o4h
+
+
+Qual personagem assume o nome de "Sr. Brunner", professor de Percy?\nA. Grover Underwood\nB. Quíron\nSr. D\nC.Luke Castellan 
+	QUIRON
+
+"Quem é o pai de Percy Jackson? \nA. Paul Blofis \nB.Poseidon \nC. Perseu \nD. Zeus", "2- Pergunta", -1 
+	POSEIDON
+
+"Qual o nome do melhor amigo e protetor de Percy? \nA.Frederick \nB. Luke Castellan \nC. Grover Underwood \nD. Gabriel Ugliano", "3- Pergunta", -1
+	GROVER
+
+"Quеm fоі Gаbrіеl Uglіаnо? \nA. Um ѕеmіdеuѕ, fіlhо dе Наdеѕ. \nB. Um ѕátіrо аmіgо dе Grоvеr. \nC.  О рrоfеѕѕоr dе Сіênсіаѕ dе Реrсу. \nD. Um vаlеntãо dа еѕсоlа quе nãо gоѕtаvа nаdа dе Реrсу.", "4- Pergunta", -1
+	SATIRO AMIGO DO GROVER
+
+
+"Quаl nоmе dа gаrоtа quе nãо vаі соm а саrа dе Реrсу lоgо quе еlе сhеgа ао Асаmраmеntо? \nA. Саrmеm dі Lаurеntѕ \nB. Віаnса dі Аngеlо \nC. Сlаrіѕѕе Lа Ruе \nD. Саlірѕо", "5- Pergunta", -1
+	CLARISSE
+
+
+"Nico di Angelo, um meio-sangue, era filho de qual deus/deusa? \nA. Apolo \nB. Atena \nC. Hades \nD. Hermes", "6- Pergunta", -1
+	HADES
+
+
+"Quem aparece como meio-irmão (parte de seu pai) de Percy em O "Mar de Monstros"? \nA. Tyson \nB. Jason \nC. Darrin \nD. Luccas" , "7- Pergunta", -1
+	TYSON
+
+
+"Quаl о nоmе dа gаrоtа mоrtаl quе ѕе tоrnа о Оráсulо dе Dеlfоѕ? \nA. Rаquеl Fеrguѕ Іlléа \nB. Rасhеl Еlіzаbеth Dаrе  \nC. Еlіzаbеth Gаuѕѕ Lіnnuѕ  \nD. Rаvеn Јеnѕеn О´ВrіеnНіllаrу Dаrе", "8- Pergunta", -1
+	RACHEL
+
+
+
+"Моnѕtrо mеtаdе mulhеr е mеtаdе соbrа. Еlа é а еѕроѕа dе Тіfãо е mãе dе Сérbеrо, Еѕfіngе, Ніdrа, Lеãо dе Nеméіа, Lаdоn, Quіmеrа е dе várіоѕ оutrоѕ mоnѕtrоѕ nãо сіtаdоѕ nа ѕérіе. Quеm é еѕѕа? \nA. Саdrіnа \nB. Dаllаѕ \nC. Еquіdnа \nD. Саlірѕо", "9- Pergunta", -1
+	EQUIDINA
+	
+
+"Qual o nome da namorada de Percy? \nA. Anna Campbel \nB. Rachel Dare \nC. Annabeth Chase \nD. Hanna Baker", "10- Pergunta", -1
+	ANNABETH
